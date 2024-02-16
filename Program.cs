@@ -14,3 +14,6 @@ calc.Div(40, 5);
 
 Console.WriteLine("Multi call");
 calc.Multi(3, 9);
+
+Console.WriteLine("Avg call");
+calc.Multi(13.5, 35.5);
